@@ -4,6 +4,6 @@
   <src>src<src>
   <main>init.lua<main>
   <children>
-    <1>child.lua<1>
+    <Child>child.lua<Child>
   <children>
 <quantom>
