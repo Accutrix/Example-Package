@@ -1,0 +1,9 @@
+<quantom>
+  <name>Example<name>
+  <author>Accutrix<author>
+  <src>src<src>
+  <main>init.lua<main>
+  <children>
+    <1>child.lua<1>
+  <children>
+<quantom>
