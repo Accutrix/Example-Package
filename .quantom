@@ -1,9 +1,10 @@
 <quantom>
-  <name>Example<name>
-  <author>Accutrix<author>
-  <src>src<src>
-  <main>init.lua<main>
+  <name>Example</name>
+  <author>Accutrix</author>
+  <description>An example package developed by Accutrix for demonstrating the use of the Quantom framework on the ROBLOX platform.</description>
+  <src>src</src>
+  <main>init.lua</main>
   <children>
-    <Child>child.lua<Child>
-  <children>
-<quantom>
+    <Child>child.lua</Child>
+  </children>
+</quantom>
