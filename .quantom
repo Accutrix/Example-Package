@@ -2,6 +2,7 @@
   <name>Example</name>
   <author>Accutrix</author>
   <description>An example package developed by Accutrix for demonstrating the use of the Quantom framework on the ROBLOX platform.</description>
+  <branch>master</branch>
   <src>src</src>
   <main>init.lua</main>
   <children>
